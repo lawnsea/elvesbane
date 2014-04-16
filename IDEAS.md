@@ -1,5 +1,18 @@
 Ideas
 -----
+- Elves
+  - mountain elves
+    - some dwarven notes
+    - not warlike, but violent enemies
+  - wiped out when volcano erupts
+    - eruption occurs during summer equinox festival, killing most
+    - survivors are mostly deployed military and those who happened to be away
+  - steel thistle
+    - elven guerrilla group
+    - strongholds in mountains around Elvesbane crater and also in river delta
+    - goal is to reclaim elven lands and rebuild
+    - brutal, nasty, barely chivalrous (will not murder non-combatants, but
+      their definition is very strict; trade caravans, e.g., are fair game)
 - NEW: Vietnam and Korea
   - war between Molthune and Nirmathas, with some Cheliaxan intrigue
   - slow XP track
