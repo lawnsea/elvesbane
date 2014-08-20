@@ -1,0 +1,26 @@
+- draft intro email
+  - purpose is to be a teaser
+  - summary of elven catastrophe and start of war
+  - written in the style of an RPG call-to-action
+- create private repo
+  - use github pages for player-visible info (including a blog)
+    - https://pages.github.com/
+  - license it CC BY-NC-SA
+  - use parallel private and public trees
+    - people
+    - places
+    - events
+    - etc.
+  - private tree has the DM-only info
+- create public repo for players to use?
+  - they could then edit things in the wiki
+  - maybe more work than it is worth
+  - it might be possible to instead do a private org site and give them access
+    - then my fork has the DM-only stuff
+    - they can use the wiki
+- content to create
+  - high-level history
+  - high-level geography
+  - religion
+  - place names
+  - story graphs
