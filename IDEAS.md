@@ -1,5 +1,11 @@
 Ideas
 -----
+- First arc
+  - sent to front lines
+  - they participate in a failed assault and are cut off
+  - they must fight back through craggy hills teeming with enemies and riddled
+    with caves and tunnels
+  - upon return, they are reassigned to the rangers
 - Elves
   - mountain elves
     - some dwarven notes
